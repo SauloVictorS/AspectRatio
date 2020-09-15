@@ -1,0 +1,10 @@
+C:\Users\saulo\source\repos\Resize and Aspect Ratio\Resize and Aspect Ratio\bin\Debug\Resize and Aspect Ratio.exe.config
+C:\Users\saulo\source\repos\Resize and Aspect Ratio\Resize and Aspect Ratio\bin\Debug\Resize and Aspect Ratio.exe
+C:\Users\saulo\source\repos\Resize and Aspect Ratio\Resize and Aspect Ratio\bin\Debug\Resize and Aspect Ratio.pdb
+C:\Users\saulo\source\repos\Resize and Aspect Ratio\Resize and Aspect Ratio\obj\Debug\Resize and Aspect Ratio.csprojAssemblyReference.cache
+C:\Users\saulo\source\repos\Resize and Aspect Ratio\Resize and Aspect Ratio\obj\Debug\Resize_and_Aspect_Ratio.Properties.Resources.resources
+C:\Users\saulo\source\repos\Resize and Aspect Ratio\Resize and Aspect Ratio\obj\Debug\Resize and Aspect Ratio.csproj.GenerateResource.cache
+C:\Users\saulo\source\repos\Resize and Aspect Ratio\Resize and Aspect Ratio\obj\Debug\Resize and Aspect Ratio.csproj.CoreCompileInputs.cache
+C:\Users\saulo\source\repos\Resize and Aspect Ratio\Resize and Aspect Ratio\obj\Debug\Resize and Aspect Ratio.exe
+C:\Users\saulo\source\repos\Resize and Aspect Ratio\Resize and Aspect Ratio\obj\Debug\Resize and Aspect Ratio.pdb
+C:\Users\saulo\source\repos\Resize and Aspect Ratio\Resize and Aspect Ratio\obj\Debug\Resize_and_Aspect_Ratio.Resize.resources
