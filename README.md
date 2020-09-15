@@ -8,4 +8,4 @@ To activate the code, use the event SizeChanged on the anchor panel. Not on the 
 The anchor panel must be docked as a Fill
 The ProportionalPanel is anchored as Top Left
 
-![Resizing Form](https://doc-08-7g-docs.googleusercontent.com/docs/securesc/it1sunt4ufvfdspnmjptg8vf3olfvpgq/f7eooov3gdp9kun02hh5rkidrlorhhl5/1600135050000/07625659027684392502/07625659027684392502/1fQbZutYYOddoiixiAjXSL1SVtiOrXbH9?e=)
+![Resizing Form](https://drive.google.com/file/d/1fQbZutYYOddoiixiAjXSL1SVtiOrXbH9/preview)
